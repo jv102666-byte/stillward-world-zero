@@ -1,0 +1,33 @@
+{
+  "world_id": "stillward-world-zero",
+  "schema_version": 1,
+  "world_time": {
+    "tick": 0,
+    "day": 0,
+    "phase": "day"
+  },
+  "last_simulation_update": null,
+  "agents": {
+    "renn": {
+      "id": "renn",
+      "name": "Renn",
+      "position": { "x": 0, "y": 0 },
+      "status": "active"
+    },
+    "mira": {
+      "id": "mira",
+      "name": "Mira",
+      "position": { "x": 0, "y": 0 },
+      "status": "active"
+    }
+  },
+  "island": {
+    "id": "world-zero-island",
+    "terrain_version": 1,
+    "weather": "clear"
+  },
+  "event_log": {
+    "version": 1,
+    "last_event_id": null
+  }
+}
